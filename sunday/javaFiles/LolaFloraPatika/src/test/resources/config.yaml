@@ -1,0 +1,8 @@
+url :
+  https://www.flocake.com/
+implicityWait :
+  10
+pageLoadTimeout :
+  8
+browser :
+  chrome
